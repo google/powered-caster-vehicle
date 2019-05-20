@@ -23,3 +23,4 @@ Reference:
 http://robotics.stanford.edu/~rah/
 http://nomadic.sourceforge.net/
 
+**This is not an officially supported Google product.**
