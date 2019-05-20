@@ -15,14 +15,14 @@ limitations under the License.
 ======================================================================*/
 
 
-#include <stdio.h>
-#include <math.h>
+#include <cmath>
 
 #include <Eigen/Dense>
 #include "PCV_Types.h"
 
 #include "traj_circle.h"
 
+using namespace std;
 using namespace Eigen;
 
 static double hz_;
