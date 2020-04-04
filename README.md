@@ -16,7 +16,7 @@
 
 This code is an implementation of kinematic and dynamic calculations and control
 for a Holomni powered caster vehicle. The work here is based on research
-conducted at the Stanford CS Robotics Lab using the XR400 robot developed at
+conducted at the Stanford CS Robotics Lab using the XR4000 robot developed at
 Nomadic Technologies, Inc. In 2013, Holomni, LLC. was purchased by Google LLC.
 
 Reference:
